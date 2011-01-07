@@ -2,7 +2,7 @@
 
 [elFinder](http://elrte.org/elfinder) plugin for [Wolf CMS](http://wolfcms.org).
 
-## Intergration with other plugins
+## Integration with other plugins
 
 ### [tinyMCE plugin](https://github.com/mvdkleijn/tinymce)
 
