@@ -51,27 +51,6 @@ class ELfinderController extends PluginController {
 		));
 	}
 	
-	public function index1($args = NULL)
-	{
-		$eCallback = $this->_standardCallback();
-		
-		if ($args === 'connector')
-		{
-			echo $this->_connector();
-			exit();
-		}
-		
-		if ($args === 'tinymce')
-		{
-			$eCallback = $this->_tinyMCECallback();
-		}		
-		
-		echo new View('elfinder/views/index', array(
-			'elConnector' => URL_PUBLIC.'elfinder/connector',
-			'editorCallback' => $eCallback
-		));
-	}
-	
 	// @todo put options in database
 	private function _connector()
 	{
