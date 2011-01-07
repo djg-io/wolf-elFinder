@@ -1,4 +1,4 @@
-#  wolf-elFinder [http://github.com/devi/wolf-elFinder]
+#  wolf-elFinder [http://github.com/devi/wolf-elFinder](http://github.com/devi/wolf-elFinder)
 
 [elFinder](http://elrte.org/elfinder) plugin for [Wolf CMS](http://wolfcms.org).
 
