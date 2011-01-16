@@ -16,7 +16,7 @@ add this script into tiny_init.php:
 
 ## Changelog:
 
-### v.1.0.0 : January 8th, 2010 - Initial release
+### v.1.0.0 : January 8th, 2011 - Initial release
 
 ## License:
 
