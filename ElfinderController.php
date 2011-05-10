@@ -61,7 +61,7 @@ class ELfinderController extends PluginController {
 			//'uploadAllow'	=> array('image/jpg','image/jpeg','image/png','image/gif'), 
 			'uploadDeny'	=> array('application/x-msdos-program', 'application/octet-stream'),
 			'uploadOrder'	=> 'deny,allow',
-			//'mimeDetect'	=> 'internal',
+			'mimeDetect'	=> 'internal',
 			'debug'		=> true
 		);		
 		
